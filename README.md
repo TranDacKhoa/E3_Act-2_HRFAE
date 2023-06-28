@@ -59,16 +59,7 @@ conda env create -f env.yml
 
 We also provide a colab version for quick test. To run it using Google Colab, please click [here](https://colab.research.google.com/github/InterDigitalInc/HRFAE/blob/master/test.ipynb). 
 
-## Citation
-```
-@article{yao2020high,
-    title   = {High Resolution Face Age Editing},
-    author  = {Xu Yao and Gilles Puy and Alasdair Newson and Yann Gousseau and Pierre Hellier},
-    journal = {CoRR},
-    volume  = {abs/2005.04410},
-    year    = {2020},
-}
-```
+
 ## License
 
 Copyright © 2020, InterDigital R&D France. All rights reserved.
